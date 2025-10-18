@@ -1,4 +1,3 @@
-# Credit-Card-Complaints-Dashboard
  # 💳 Credit Card Complaints Dashboard
 
 An interactive **Tableau dashboard** designed to analyze and visualize credit card complaint data.  
