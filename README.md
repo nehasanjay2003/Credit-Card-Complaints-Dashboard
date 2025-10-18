@@ -6,13 +6,13 @@ This project aims to identify key patterns, complaint categories, and company pe
 
 ---
 
-## 🌐 **Live Dashboard**
-👉 **View the interactive Tableau dashboard here:**  
+##  **Live Dashboard**
+ **View the interactive Tableau dashboard here:**  
 [🔗 Open Dashboard](https://public.tableau.com/views/Creditcardcomplaints_17410132389970/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
-## 📊 **Key Insights**
+## **Key Insights**
 - Complaint trends by **state** and **company**
 - Frequency of **complaint types**
 - **Response status** and resolution performance
@@ -20,17 +20,17 @@ This project aims to identify key patterns, complaint categories, and company pe
 
 ---
 
-## 🧰 **Tools Used**
+## **Tools Used**
 - **Tableau Public** – for dashboard creation and data visualization  
 - **Excel / CSV Dataset** – as the data source  
 - **GitHub** – for project documentation and sharing
 
 ---
 
-## 📄 **Project Description**
+##  **Project Description**
 This dashboard provides a clear view of customer complaints received by financial institutions.  
 It helps identify areas needing service improvement and supports data-driven decision-making.
 
 ---
 
-✨ *Created by [Neha Sanjay](https://github.com/nehasanjay2003)*
+ *Created by [Neha Sanjay](https://github.com/nehasanjay2003)*
